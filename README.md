@@ -16,5 +16,5 @@
 
 
 ## 📫 Onde me encontrar
-- [LinkedIn](https//www.linkedin.com/in/camila-maria-515584379)  
+- [LinkedIn]([https//www.linkedin.com/in/camila-maria-515584379](https://www.linkedin.com/in/camila-maria-515584379)  
 - 📧 **csou8091@gmail.com**
