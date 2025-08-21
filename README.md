@@ -1,6 +1,7 @@
  👋 Olá, eu sou a Camila Maria
 
 🎓 Estudante de Cieências da Computação na Unipê 
+🎓 Téc. de desenvolvimento de sistemas
 💻 Interessada em desenvolvimento web, design e tecnologia  
 🚀 Criando projetos para aprimorar minhas habilidades e montar meu portfólio  
 
