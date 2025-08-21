@@ -1,16 +1,20 @@
-## Hi there 👋
+ 👋 Olá, eu sou a Camila Maria
 
-<!--
-**Camilamaria18/Camilamaria18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Cieências da Computação na Unipê 
+💻 Interessada em desenvolvimento web, design e tecnologia  
+🚀 Criando projetos para aprimorar minhas habilidades e montar meu portfólio  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que estou aprendendo
+- HTML5, CSS3 e JavaScript  
+- Git e GitHub  
+- Python  
+- Banco de Dados (SQL)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Projetos em destaque
+- [☕ Café Aurora](https://github.com/Camilamaria18/cafe-aurora) – Site fictício de cafeteria desenvolvido em HTML e CSS  
+
+
+## 📫 Onde me encontrar
+- [LinkedIn](www.linkedin.com/in/camila-maria-515584379)  
+- 📧 **csou8091@gmail.com**
